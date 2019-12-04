@@ -28,3 +28,5 @@ Stage your files afterwards by using `git add filename` to the staging area .
 Commit the changes permanently by using `git commit -m "message"` . 
 Some basic commands:  
 * git init - initializes a directory as a git repository
+* git add - adds the file to staging area
+* git commit -m - commits the file into the repository and stores it.  
