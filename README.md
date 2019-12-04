@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Sam Lee>_
+_by Sam Lee_
 
 ---
 ## Git vs. GitHub
