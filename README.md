@@ -22,4 +22,9 @@ After having the same directory as the one that you created in github, you would
 
 
 ---
-## Workflow & Commands
+## Workflow & Commands 
+Edit your files in the Working Directory.  
+Stage your files afterwards by using `git add filename` to the staging area . 
+Commit the changes permanently by using `git commit -m "message"` . 
+Some basic commands:  
+* git init - initializes a directory as a git repository
