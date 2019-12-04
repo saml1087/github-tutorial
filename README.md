@@ -9,8 +9,9 @@ In GitHub, it holds these repositories that can be accessed by others. This is c
 
 ---
 ## Initial Setup
-In order to initialize a directory you will use `git init` allowing the tools to be accessed in the directory. 
-
+First, you have to create a directory in the IDE using `mkdir _directory name_`. After changing into the directory, you would be able to initialize the folder.  
+In order to initialize a directory you will use `git init` allowing the tools to be accessed in the directory.  
+Afterwards, you can create a file using `touch _filename_` . 
 
 ---
 ## Repository Setup
