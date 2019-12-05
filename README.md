@@ -15,10 +15,10 @@ Afterwards, you can create a file using `touch _filename_` .
 
 ---
 ## Repository Setup
-Go to github 
+Go to github and log in or create account.
 Make a repository by clicking the `+` and then clicking `Create Repository` . 
 Afterwards, copy the SSH key, and paste it using `git remote add origin URL`
-After having the same directory as the one that you created in github, you would be able to make a repository and push files . 
+After having the same directory as the one that you created in github, you would be able to make a repository and push files by using `Git push`.
 
 
 ---
